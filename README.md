@@ -7,7 +7,7 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-### Found me on telegram [Luna Robot](https://t.me/lunatapibot)
+### Found me on telegram [Miss Akshi](https://t.me/Miss_Akshi_bot)
 
 ## DEPLOY ON HEROKU :
 
